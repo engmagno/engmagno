@@ -32,8 +32,8 @@ Engenheiro Mecânico com experiência em análise de dados, automação e otimiz
 
 ## 🔬 Projetos Acadêmicos e Pesquisa
 
-- **Bolsista CAPES (2024-Atual)**
-  Bolsista de Mestrado, pela CAPES, na Universidade Federal de Uberlândia
+- **Bolsista CAPES (2024-Atual)**  
+  Bolsista de Mestrado, pela CAPES, na Universidade Federal de Uberlândia.
   
 - **Bolsista COPES (2020-2021)**  
   Estudo de modelagem matemática para gaseificação de resíduos agroindustriais.  
