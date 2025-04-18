@@ -13,7 +13,7 @@
 
 ## 🚀 Resumo Profissional
 
-Engenheiro Mecânico com experiência em análise de dados, automação e otimização de processos, atuando no segmento de e-commerce. Habilidades em Python (Pandas, NumPy, BeautifulSoup, Streamlit), SQL, Power BI, Google DataStudio e ferramentas de IA para automação. Experiência em gestão de ERPs (Bling, Ambarx), integração com marketplaces e desenvolvimento de dashboards para tomada de decisão.
+Mestrando em Engenharia Mecânica pela Universidade Federal de Uberlândia (CAPES 7), sendo integrante do Laboratório de Ensino e Pesquisa em Transferência de Calor: Modelagem e Experimento. Engenheiro Mecânico pela Universidade Federal de Sergipe. Técnico em Eletromecânica pela Instituição Federal de Sergipe, sendo bolsista do Programa de Recursos Humanos (PFRH) da Petrobrás. Apaixonado por programação e melhoria contínua, idealizo formas de aprimorar tudo aquilo que me disponho a fazer.
 
 ---
 
